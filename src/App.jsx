@@ -122,7 +122,7 @@ export default function App() {
           <span className="brand-mark">N</span>
           <span>Cloud Notes <small>FRONTEND LAB</small></span>
         </a>
-        <div className="pipeline-status"><span className="status-dot" /> CI/CD DEMO · VERSION 1.0</div>
+        <div className="pipeline-status"><span className="status-dot" /> CI/CD DEMO · VERSION 2.0</div>
       </header>
 
       <section className="hero" id="home">
